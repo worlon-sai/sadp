@@ -1,0 +1,32 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: #2f3035;
+    background-image: url(images/light.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+header{ 
+    text-align: center;
+    height: 118px;    
+    }
+    nav{
+        background-color: rgba(20, 19, 19, 0.164);
+        text-align: center;
+        height: 14px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    nav a{
+        text-decoration: none;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+form{
+    padding-top: 1rem;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+}
